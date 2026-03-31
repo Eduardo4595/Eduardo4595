@@ -1,8 +1,8 @@
 # 👨‍💻 Hi! I'm Edu
 
-*🚀 Developer in progress
-*💡 Passionate about backend development and problem solving
-*📍 Brazil
+Developer in progress 🚀
+Passionate about backend development and problem solving 💡
+Brazil 📍 
 
 ---
 
