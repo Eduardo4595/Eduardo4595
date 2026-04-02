@@ -12,7 +12,6 @@
 * 🐘 Currently learning **PHP** and **Databases (SQL)**
 * 🌐 Basic knowledge of **HTML, CSS, and JavaScript**
 * 🎯 Goal: Become a full-stack developer
-* 🚗 Passion for cars and performance (SpeedWare 🏎️)
 
 ---
 
@@ -28,7 +27,7 @@
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo4595)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 🎯 2026 Goals
