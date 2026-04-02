@@ -79,7 +79,3 @@
 * 💼 GitHub: https://github.com/Eduardo4595
 
 ---
-
-<img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/snake.svg" alt="Snake animation" />
-
-###
