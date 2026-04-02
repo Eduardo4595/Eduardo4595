@@ -12,6 +12,10 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight)
+
+---
+
 ## 🧠 About Me
 
 * 💻 Strong knowledge in **Logic and Java**
