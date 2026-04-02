@@ -4,7 +4,7 @@
   </a>
 </div>
 
-
+---
 
 * 🚀 Developer in training with a strong foundation in logic and problem-solving
 * 🎓 High School student + Technical Degree in Systems Development
