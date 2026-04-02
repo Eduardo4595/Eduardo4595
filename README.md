@@ -59,12 +59,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo4595&exclude_repo=github-readme-stats,Eduardo4595.github.io)
-
----
 
 ## 🎯 2026 Goals
 
