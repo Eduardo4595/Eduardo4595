@@ -1,8 +1,8 @@
 # 👨‍💻 Hello! I'm Edu.
 
-🚀 Developer in training with a strong foundation in logic and problem-solving
-🎓 High School student + Technical Degree in Systems Development
-⚡ Focused on backend development and continuous learning
+* 🚀 Developer in training with a strong foundation in logic and problem-solving
+* 🎓 High School student + Technical Degree in Systems Development
+* ⚡ Focused on backend development and continuous learning
 
 ---
 
@@ -28,11 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO\&layout=compact\&theme=tokyonight)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardo4595)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🎯 2026 Goals
