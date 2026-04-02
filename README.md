@@ -82,5 +82,5 @@
 
 <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/snake.svg" alt="Snake animation" />
 
-###
+
 ⭐ Thanks for visiting my profile
