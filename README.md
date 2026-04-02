@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <h2>Stats</h2>
+  <h2>Stats 📊</h2>
   <br>
   <img src="https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight" alt="GitHub Streak">
 </div>
