@@ -14,18 +14,9 @@
 
 
 <div align="center">
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=default"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo4595&layout=donut&theme=tokyonight"/>
-
-<br><br>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight"/>
-
+<h2>Stats 📊</h2>
+<img src="https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight" alt="GitHub Streak">
 </div>
-
 
 ---
 
