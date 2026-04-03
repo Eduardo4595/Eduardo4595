@@ -13,9 +13,27 @@
 ---
 
 <div align="center">
-  <h2>Stats 📊</h2>
-  <img src="https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight" alt="GitHub Streak">
+
+## 📊 GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Eduardo4595&theme=tokyonight" alt="GitHub Streak"/>
+
+<br><br>
+
+### 📈 Detailed Info
+
+<img src="https://img.shields.io/github/stars/Eduardo4595?style=for-the-badge&label=Total%20Stars"/>
+<img src="https://img.shields.io/github/followers/Eduardo4595?style=for-the-badge&label=Followers"/>
+<img src="https://img.shields.io/github/repos/Eduardo4595?style=for-the-badge&label=Repositories"/>
+
 </div>
+
 
 ---
 
