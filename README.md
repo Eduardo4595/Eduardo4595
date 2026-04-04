@@ -41,7 +41,7 @@
 
 <div align="center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" href="https://lp.jetbrains.com/intellij-idea-promo/?source=google&medium=cpc&campaign=AMER_en_BR_IDEA_Branded&term=intellij&content=693349187724&gad_source=1&gad_campaignid=9736964299&gbraid=0AAAAADloJzgwl2yh125EgOro9ciFUDXmG&gclid=Cj0KCQjw7cLOBhDmARIsAGsuA0mCXcUsvkKvMVcAoM9yfLLob_00JuvZZSN_XiGFilDB2OBXHw-ROmIaAlL4EALw_wcB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"/>
   <img width="12" />
 
   
