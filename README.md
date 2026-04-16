@@ -39,7 +39,7 @@
 * 🔧 Git & GitHub
 
 <div align="center">
-  <a href="https://www.jetbrains.com/pt-br/idea/">
+  <a href="https://www.jetbrains.com/pt-br/idea/" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   </a>
 
