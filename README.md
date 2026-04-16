@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Stats 📊</h2>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=88E788&center=true&vCenter=true&random=false&width=524&lines=Hello!+I'm+Edu.+" alt="Typing SVG">
 </div>
 
@@ -12,6 +11,7 @@
 ---
 
 <div align="center">
+  <h2>Stats 📊</h2>
   <a href="https://github.com/Eduardo4595">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo4595&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&langs_count=7&theme=github_dark"/>
