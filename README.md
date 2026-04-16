@@ -39,7 +39,9 @@
 * 🔧 Git & GitHub
 
 <div align="center">
-  [![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)](https://www.jetbrains.com/pt-br/idea/)
+  <a href="https://www.jetbrains.com/pt-br/idea/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
+  </a>
 
   <a href="https://code.visualstudio.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />  
