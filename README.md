@@ -110,6 +110,11 @@
 <a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
 </a>
+&nbsp;&nbsp;
+
+<a href="https://isocpp.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
+</a>
 
 </div>
 
