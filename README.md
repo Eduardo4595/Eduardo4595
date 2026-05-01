@@ -12,7 +12,7 @@
 
 <div align="center">
   <h2>Stats 📊</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo4595&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eduardo4595&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180em" alt="stats graph"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
