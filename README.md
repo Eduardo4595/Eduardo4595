@@ -12,8 +12,8 @@
 
 <div align="center">
   <h2>Stats 📊</h2>
-  <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/languages-output/languages.svg" height="150" alt="languages graph"  />
+    <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/stats-output/stats.svg" height="150" alt="stats graph"  />
+    <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ---
