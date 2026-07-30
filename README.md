@@ -134,7 +134,7 @@
 
 ## 🌐 Connect with Me
 
-* 💼 GitHub: https://github.com/Eduardo4595
+* 💼 GitHub: https://github.com/Edukaxs
 
 ---
 <div align="center">
