@@ -12,12 +12,8 @@
 
 
   <h2 align="center">Stats 📊</h2>
-  <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&theme=tokyonight)
 
 ---
 
