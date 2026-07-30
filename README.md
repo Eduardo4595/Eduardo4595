@@ -13,8 +13,10 @@
 
   <h2 align="center">Stats 📊</h2>
   
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Eduardo4595&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Eduardo4595&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
