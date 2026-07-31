@@ -141,12 +141,11 @@
 
 * 💼 GitHub: https://github.com/Edukaxs
 
----
-<div align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edukaxs/Edukaxs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edukaxs/Edukaxs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Edukaxs/Edukaxs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 
 <div data-importer="border">
