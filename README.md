@@ -1,3 +1,8 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=50&pause=1000&color=88E788&center=true&vCenter=true&random=false&width=524&lines=Hello!+I'm+Edu.+" alt="Typing SVG">
 </div>
@@ -142,5 +147,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduardo4595/Eduardo4595/output/github-contribution-grid-snake.svg">
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 </picture>
 </div>
