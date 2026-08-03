@@ -104,7 +104,7 @@
 &nbsp;&nbsp;
 
 <a href="https://github.com/?locale=pt-br">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" height="45" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 
