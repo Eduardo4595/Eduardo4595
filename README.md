@@ -53,6 +53,11 @@
 </a>
 &nbsp;&nbsp;
 
+<a href="https://eclipseide.org/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="45" alt="VSCode" />
+</a>
+&nbsp;&nbsp;
+
 <a href="https://www.arduino.cc/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
 </a>
