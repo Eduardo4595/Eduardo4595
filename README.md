@@ -27,7 +27,7 @@
 ## 🧠 About Me
 
 * 💻 Strong knowledge in **Logic and Java**
-* 🐘 Currently learning **PHP**, **Python** and **Databases (SQL)**
+* 🐘🐍 learning **PHP**, **Python** and **Databases (SQL)**
 * 🌐 Basic knowledge of **HTML, CSS, and JavaScript**
 * 🎯 Goal: Become a full-stack developer
 
@@ -38,7 +38,7 @@
 * ☕ Java (main language)
 * 🟣 Kotlin
 * 🐘 PHP (learning)
-* Python (learning)
+* 🐍 Python (learning)
 * 🗄️ Databases (SQL)
 * 🌐 HTML, CSS, JavaScript (basic)
 * 🔧 Git & GitHub
