@@ -115,7 +115,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://github.com/?locale=pt-br">
+<a href="https://git-scm.com/">
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
 </a>
 &nbsp;&nbsp;
