@@ -116,6 +116,11 @@
 &nbsp;&nbsp;
 
 <a href="https://github.com/?locale=pt-br">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/?locale=pt-br">
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
