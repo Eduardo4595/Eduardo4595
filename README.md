@@ -46,7 +46,7 @@
 
 <div align="center">
 <a href="https://www.jetbrains.com/pt-br/idea/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ" />
+  <img src="https://skillicons.dev/icons?i=idea,kubernetes,docker,c,vim" alt="Idea"/>
 </a>
 &nbsp;&nbsp;
 
