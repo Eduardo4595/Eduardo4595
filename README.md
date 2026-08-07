@@ -70,6 +70,11 @@
 </a>
 &nbsp;&nbsp;
 
+<a href="https://developer.android.com/studio?hl=pt-br">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Androidstudio"  />
+</a>
+&nbsp;&nbsp;
+
 <a href="https://www.w3.org/html/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
 </a>
