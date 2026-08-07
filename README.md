@@ -98,6 +98,7 @@
 <a href="https://isocpp.org/">
 <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://kotlinlang.org/">
   <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
@@ -115,7 +116,7 @@
 &nbsp;&nbsp;
 
 <a href="https://github.com/?locale=pt-br">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
 
