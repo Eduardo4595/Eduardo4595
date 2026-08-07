@@ -46,22 +46,22 @@
 
 <div align="center">
 <a href="https://www.jetbrains.com/pt-br/idea/">
-  <img src="https://skillicons.dev/icons?i=idea,kubernetes,docker,c,vim" alt="Idea"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="Idea"/>
 </a>
 &nbsp;&nbsp;
 
 <a href="https://code.visualstudio.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://eclipseide.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" height="45" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.arduino.cc/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" />
 </a>
 &nbsp;&nbsp;
 
@@ -71,42 +71,46 @@
 &nbsp;&nbsp;
 
 <a href="https://developer.android.com/studio?hl=pt-br">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="Androidstudio"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="45" alt="Androidstudio"  />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.w3.org/html/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.java.com/pt-BR/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
 </a>
 &nbsp;&nbsp;
 
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+</a>
+
 <a href="https://kotlinlang.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.php.net/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.figma.com/pt-br/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
 </a>
 &nbsp;&nbsp;
 
@@ -116,23 +120,19 @@
 &nbsp;&nbsp;
 
 <a href="https://www.linux.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.mysql.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
 </a>
 &nbsp;&nbsp;
 
 <a href="https://www.python.org/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
 </a>
 &nbsp;&nbsp;
-
-<a href="https://isocpp.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-</a>
 
 </div>
 
