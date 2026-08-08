@@ -75,7 +75,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.w3.org/html/">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
 </a>
 &nbsp;&nbsp;
