@@ -85,7 +85,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<a href="https://www.javascript.com/">
   <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
 </a>
 &nbsp;&nbsp;
