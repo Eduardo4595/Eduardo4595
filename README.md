@@ -20,7 +20,6 @@
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=Edukaxs&show_icons=true&theme=midnight-purple&hide_border=true"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Edukaxs&theme=midnight-purple&hide_border=true"/>
-  <img height="170" src="https://raw.githubusercontent.com/Edukaxs/Edukaxs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 
 ---
