@@ -18,7 +18,7 @@
 
 <h2 align="center">Stats 📊</h2>
 <p align="center">
-  <img height="150" src="https://ghstats.dev/api/card?username=Edukaxs&border_radius=10.5&hide=followers%2Crepos%2Cgrade%2Cactive_day%2Cweek%2Chours%2Cstreak%2Ccontributions" alt="GitHub Stats Card" />
+  <img height="150" src="https://ghstats.dev/api/card?username=Edukaxs&border_radius=10.5&hide=followers%2Crepos%2Cgrade%2Cactive_day%2Cweek%2Chours%2Cstreak%2Ccontributions&theme=midnight-purple" alt="GitHub Stats Card" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Edukaxs&theme=midnight-purple&hide_border=true"/>
 </div>
 </p>
