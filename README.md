@@ -144,11 +144,6 @@
 </div>
 
 ---
-## Currently working on
-
-<img src="https://github-stats-extended.vercel.app/api/pin?username=CHEB-Labs&repo=RoboticHand%2Fgithub-readme-stats&theme=midnight-purple"/>
-
----
 
 ## 🎯 2026 Goals
 
