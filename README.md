@@ -19,8 +19,8 @@
 <h2 align="center">Stats 📊</h2>
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=Edukaxs&theme=midnight-purple&hide_border=true" alt="GitHub Stats Card"/>
-  <img height="135" src="https://github-readme-streak-stats.herokuapp.com/?user=Edukaxs&theme=midnight-purple&hide_border=true"/>
-  <img height="220" src="https://github-stats-extended.vercel.app/api/top-langs?username=Edukaxs&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
+  <img height="138" src="https://github-readme-streak-stats.herokuapp.com/?user=Edukaxs&theme=midnight-purple&hide_border=true"/>
+  <img height="250" src="https://github-stats-extended.vercel.app/api/top-langs?username=Edukaxs&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true"/>
 </div>
 </p>
 
