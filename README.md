@@ -20,7 +20,6 @@
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=Edukaxs&theme=midnight-purple&hide_border=true" alt="GitHub Stats Card" />
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Edukaxs&theme=midnight-purple&hide_border=true"/>
-  <img height="150" src="https://github-stats-top-languages/api?username=Edukaxs&theme=midnight-purple&hide_border=true" alt="GitHub Stats Card" />
 </div>
 </p>
 
